@@ -1,0 +1,26 @@
+ADR-001
+
+Título:
+Adoptar un monolito modular
+
+Estado:
+Accepted
+
+Contexto:
+Equipo de 6 personas.
+MVP en construcción.
+Dominio aún en evolución.
+
+Decisión:
+Utilizar un único backend
+organizado en módulos de negocio.
+
+Alternativas:
+Microservicios.
+Monolito tradicional.
+
+Consecuencias:
++ menor complejidad operacional
++ despliegue sencillo
++ límites explícitos
+- escalamiento independiente limitado
