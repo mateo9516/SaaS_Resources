@@ -1,0 +1,25 @@
+Tenemos un SaaS en etapa MVP.
+
+Equipo: 6 desarrolladores.
+
+Usuarios esperados inicialmente: <1000.
+
+Dominio aún en evolución.
+
+Necesitamos:
+- citas
+- pacientes
+- profesionales
+- autenticación
+
+Propón tres alternativas arquitectónicas.
+
+Para cada una analiza:
+- complejidad
+- mantenibilidad
+- costo operacional
+- escalabilidad
+- riesgos
+- condiciones bajo las cuales NO debería elegirse.
+
+No selecciones una por nosotros.
