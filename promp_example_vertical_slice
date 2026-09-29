@@ -1,0 +1,21 @@
+Trabajaremos en la historia:
+"Como recepcionista quiero registrar una cita..."
+
+Lee antes:
+
+- AGENTS.md
+- docs/architecture/
+- ADR-001
+- contrato de appointments
+
+Restricciones:
+
+- Mantener el modular monolith.
+- No crear nuevas dependencias.
+- No acceder directamente a otros módulos.
+- Mantener el contrato definido.
+- Agregar tests para las reglas implementadas.
+
+Primero analiza la historia y propón un plan.
+
+NO modifiques archivos todavía.
